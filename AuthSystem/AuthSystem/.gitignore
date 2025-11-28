@@ -1,0 +1,17 @@
+# Ignore Visual Studio workspace / user-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output directories
+bin/
+obj/
+
+# Visual Studio Code settings (if using VS Code)
+.vscode/
+
+# Other typical ignores
+*.log
+*.tmp

@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AuthSystem",
+    "\\AuthSystem\\Areas\\Identity",
+    "\\AuthSystem\\Areas\\Identity\\Pages\\Account",
+    "\\AuthSystem\\wwwroot"
+  ],
+  "SelectedNode": "\\AuthSystem\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
