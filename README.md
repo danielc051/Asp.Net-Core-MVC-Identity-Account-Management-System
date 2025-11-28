@@ -26,11 +26,12 @@ Overview of Project:
 
 ## Images of Account Management User Interface
 
+
 ### Account Login
 
 <img src="AuthSystem/AuthSystem/wwwroot/images/AuthSystem-Account-Login.png" alt="Account Login" />
 
-### Account Registation
+### Account Registration
 
 <img src="AuthSystem/AuthSystem/wwwroot/images/AuthSystem-Account-Registration.png" alt="Account Login" />
 
